@@ -20,6 +20,7 @@ Profissional de Tecnologia da Informação com experiência em desenvolvimento d
 * PostgreSQL
 * MySQL
 * PowerShell
+* Git e Github
 
 ## Áreas de atuação
 
