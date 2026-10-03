@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá meu nome é Célio Roberto e este aqui é um pouco sobre mim!!!
 
-<!--
-**celiorobertomello05/celiorobertomello05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor de Software | Tecnologia da Informação | Suporte e Infraestrutura**
 
-Here are some ideas to get you started:
+Profissional de Tecnologia da Informação com experiência em desenvolvimento de software, suporte técnico, manutenção de computadores, infraestrutura e soluções para empresas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+* Java
+* Spring Boot
+* Python
+* Dart
+* Flutter
+* JavaScript
+* React
+* Next.js
+* HTML
+* CSS
+* SQL
+* PostgreSQL
+* MySQL
+* PowerShell
+
+## Áreas de atuação
+
+* Desenvolvimento de sistemas e aplicações web
+* Desenvolvimento com Java e Spring Boot
+* Desenvolvimento com React e Next.js
+* Desenvolvimento mobile com Flutter
+* Banco de dados e SQL
+* Suporte técnico e infraestrutura de TI
+* Manutenção e configuração de computadores
+* Redes e ambientes Windows
+* Automação e integração de sistemas
+
+## Atualmente
+
+Estudando e desenvolvendo projetos voltados para desenvolvimento de software, aplicações web, sistemas SaaS, bancos de dados e infraestrutura de TI.
+
+## Projetos
+
+Desenvolvimento de projetos próprios e soluções voltadas para automação, gestão, tecnologia da informação e negócios.
+
+## Contato
+
+**GitHub:** github.com/celiorobertomello05
+
