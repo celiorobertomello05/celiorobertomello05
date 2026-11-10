@@ -1,14 +1,9 @@
-<!--
-  ANTES DE USAR: faça "localizar e substituir" no arquivo todo:
-    SEU_USUARIO   -> seu usuário do GitHub (o mesmo nome do repositório do perfil)
-    SEU_LINKEDIN  -> o final da URL do seu LinkedIn (linkedin.com/in/SEU_LINKEDIN)
-    SEU_EMAIL     -> seu e-mail
--->
+
 
 <h1 align="center">Olá! Eu sou Célio Roberto 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor de Software | Tecnologia da Informação | Suporte e Infraestrutura</b>
+  <b>Software Engineer | Java | Spring Boot | React | Next.js | Flutter | Python</b>
 </p>
 
 <p align="center">
@@ -17,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/celiorobertomello">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:mello.suporteti.oficial@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/https://github.com/celiorobertomello05">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -71,7 +66,7 @@ bancos de dados, automação e infraestrutura de TI.
 
 <!-- Troque "repo=" pelos nomes exatos dos repositórios que você quer destacar -->
 <p>
-  <a href="https://github.com/SEU_USUARIO/projeto_em_python">
+  <a href="https://github.com/https://github.com/celiorobertomello05/DesenvolvimentoAplicacoes">
     <img alt="projeto_em_python" src="https://github-stats-extended.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto_em_python&theme=radical&hide_border=true" />
   </a>
   <a href="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_2">
@@ -90,12 +85,13 @@ bancos de dados, automação e infraestrutura de TI.
 
 ---
 
-## 🐍 Contribuições
+## 👻 Contribuições
 
-<!-- Só funciona depois de criar o workflow snake.yml e rodá-lo uma vez -->
+<!-- Só funciona depois de criar o workflow pacman.yml e rodá-lo uma vez -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
-  <img alt="Gráfico de contribuições com a cobrinha" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg" />
+  <img alt="Gráfico de contribuições com o Pac-Man" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/pacman-contribution-graph.svg" />
 </picture>
 
 ---
