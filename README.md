@@ -1,64 +1,105 @@
-# Olá! Eu sou Célio Roberto 👋
+<!--
+  ANTES DE USAR: faça "localizar e substituir" no arquivo todo:
+    SEU_USUARIO   -> seu usuário do GitHub (o mesmo nome do repositório do perfil)
+    SEU_LINKEDIN  -> o final da URL do seu LinkedIn (linkedin.com/in/SEU_LINKEDIN)
+    SEU_EMAIL     -> seu e-mail
+-->
 
-**Desenvolvedor de Software | Tecnologia da Informação | Suporte e Infraestrutura**
+<h1 align="center">Olá! Eu sou Célio Roberto 👋</h1>
 
-Profissional de TI com experiência em **desenvolvimento de software, aplicações web, bancos de dados, suporte técnico e infraestrutura**.
+<p align="center">
+  <b>Desenvolvedor de Software | Tecnologia da Informação | Suporte e Infraestrutura</b>
+</p>
 
-### 🛠️ Tecnologias
+<p align="center">
+  Profissional de TI com experiência em desenvolvimento de software, aplicações web,
+  bancos de dados, suporte técnico e infraestrutura de TI.
+</p>
 
-Java • Spring Boot • Python • Dart • Flutter • JavaScript • React • Next.js • HTML • CSS • SQL • PostgreSQL • MySQL • PowerShell • Git • GitHub
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-### 🚀 Áreas de atuação
+---
 
-* Desenvolvimento de sistemas e aplicações web
-* APIs e aplicações com Java e Spring Boot
-* Front-end com React e Next.js
-* Desenvolvimento mobile com Flutter
-* Bancos de dados e SQL
-* Automação e integração de sistemas
-* Suporte técnico e infraestrutura de TI
-* Redes e ambientes Windows
+## 🛠️ Tecnologias
 
-### 📚 Atualmente
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,dart,flutter,js,nextjs,react,html,css&perline=10" alt="Linguagens e frameworks" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,powershell,git,github,windows&perline=10" alt="Bancos de dados e ferramentas" />
+</p>
 
-Estudando e desenvolvendo projetos em **software, SaaS, aplicações web, bancos de dados, automação e infraestrutura de TI**.
+## 🚀 Áreas de atuação
 
-### 📂 Projetos
+- Desenvolvimento de sistemas e aplicações web
+- APIs e aplicações com Java e Spring Boot
+- Front-end com React e Next.js
+- Desenvolvimento mobile com Flutter
+- Banco de dados e SQL
+- Automação e integração de sistemas
+- Suporte de TI e infraestrutura
+- Redes e ambientes Windows
 
-Projetos próprios e soluções voltadas para **tecnologia, automação, gestão e negócios**.
+## 🎯 Atualmente
 
-📫 **GitHub:** github.com/celiorobertomello05
+Estudando e desenvolvendo projetos focados em software, SaaS, aplicações web,
+bancos de dados, automação e infraestrutura de TI.
 
+---
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📊 Estatísticas
 
-# Hi! I'm Célio Roberto 👋
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img height="180" alt="Estatísticas do GitHub" src="https://github-stats-extended.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img height="180" alt="Linguagens mais usadas" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  </a>
+</p>
 
-**Software Developer | Information Technology | IT Support & Infrastructure**
+## 📁 Projetos em destaque
 
-IT professional with experience in **software development, web applications, databases, technical support, and IT infrastructure**.
+<!-- Troque "repo=" pelos nomes exatos dos repositórios que você quer destacar -->
+<p>
+  <a href="https://github.com/SEU_USUARIO/projeto_em_python">
+    <img alt="projeto_em_python" src="https://github-stats-extended.vercel.app/api/pin/?username=SEU_USUARIO&repo=projeto_em_python&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_2">
+    <img alt="Projeto 2" src="https://github-stats-extended.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO_2&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-### 🛠️ Technologies
+<p>
+  <a href="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_3">
+    <img alt="Projeto 3" src="https://github-stats-extended.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO_3&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_4">
+    <img alt="Projeto 4" src="https://github-stats-extended.vercel.app/api/pin/?username=SEU_USUARIO&repo=NOME_DO_REPOSITORIO_4&theme=radical&hide_border=true" />
+  </a>
+</p>
 
-Java • Spring Boot • Python • Dart • Flutter • JavaScript • React • Next.js • HTML • CSS • SQL • PostgreSQL • MySQL • PowerShell • Git • GitHub
+---
 
-### 🚀 Areas of Expertise
+## 🐍 Contribuições
 
-* Software and web application development
-* APIs and applications with Java and Spring Boot
-* Front-end development with React and Next.js
-* Mobile development with Flutter
-* Databases and SQL
-* Automation and system integration
-* IT support and infrastructure
-* Networks and Windows environments
+<!-- Só funciona depois de criar o workflow snake.yml e rodá-lo uma vez -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg" />
+  <img alt="Gráfico de contribuições com a cobrinha" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg" />
+</picture>
 
-### 📚 Currently
+---
 
-Studying and developing projects focused on **software, SaaS, web applications, databases, automation, and IT infrastructure**.
-
-### 📂 Projects
-
-Personal projects and solutions focused on **technology, automation, management, and business**.
-
-📫 **GitHub:** github.com/celiorobertomello05
+<p align="center">
+  Projetos pessoais e soluções voltadas para tecnologia, automação, gestão e negócios. 💻
+</p>
